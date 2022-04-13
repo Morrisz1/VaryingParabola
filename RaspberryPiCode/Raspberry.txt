@@ -1,0 +1,2 @@
+The raspberry pi is going to use OpenGl to display the games
+It is also going to use some interface to talk to up to 4 arduinos to use as controllers like jackbox games

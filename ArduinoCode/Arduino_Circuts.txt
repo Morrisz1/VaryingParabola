@@ -1,0 +1,3 @@
+This is going to be a relativly simple Arduino Circut using input pullup pins
+To talkt to the Raspberry Pi not sure if using wifi or radio
+Radio is easy but is only 2 way while wifi is harder to use but can be as many devices as we need
